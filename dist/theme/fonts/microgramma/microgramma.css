@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Microgramma';
+    src: url('./M025094D.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Microgramma';
+    src: url('./Microgramma D Extended Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
