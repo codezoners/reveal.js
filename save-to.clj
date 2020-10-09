@@ -19,12 +19,11 @@
         (println (format "Error: %s exists" (str dir)))
         (System/exit 1))
       (let [{:keys [exit out err]}
-            (shell/sh "echo"
-                      "wget"
+            (shell/sh "wget"
                       "--recursive"
                       "--timestamping"
                       "--no-directories"
-                      "--convert-lines"
+                      "--convert-links"
                       (format "--directory-prefix=%s" (str dir))
                       (format "http://%s:%d/index.html" host port))]
         (if (not= exit 0)
@@ -58,7 +57,6 @@
 
       :else
       (do
-        (println options)
         (process :host (:host options)
                  :port (:port options)
                  :output-dir (first arguments))))))
