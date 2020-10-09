@@ -19,7 +19,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --block-margin: 20px;
   --heading-margin: 0 0 20px 0;
   --heading-font: Microgramma, Helvetica, sans-serif;
-  --heading-color: #222;
+  --heading-color: #999;
   --heading-line-height: 1.2;
   --heading-letter-spacing: normal;
   --heading-text-transform: uppercase;
@@ -71,7 +71,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #222;
+  color: #999;
   font-family: "Microgramma", Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;

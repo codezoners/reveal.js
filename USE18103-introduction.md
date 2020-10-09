@@ -7,8 +7,8 @@
 
 - <!-- .element class="fragment" -->Unit brief on Aula
 - <!-- .element class="fragment" -->Submission using Aula
-- <!-- .element class="fragment" -->Discussion on Aula: <B>Community</B>
-- <!-- .element class="fragment" -->Weekly material (before, after sessions): <B>Journey</B>
+- <!-- .element class="fragment" -->Discussion on Aula: <A HREF="https://rave.aula.education/#/dashboard/n4G7XZibes/community/feed"><B>Community</B></A>
+- <!-- .element class="fragment" -->Weekly material (before, after sessions): <A HREF="https://rave.aula.education/#/dashboard/n4G7XZibes/journey/materials/d1f4b913-cd23-4d60-a159-02902808aa85"><B>Journey</B></A>
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-# The Project
+# The Brief
 
 - <!-- .element class="fragment" -->Software clock - on-screen
 
@@ -32,9 +32,9 @@
 
 ### Next term: physical clock!
 
-![software clock](./images/USE18103/90439400_129462935296571_1751748043577122393_n.jpg) <!-- .element height="40%" width="40%" -->
+![physical clock](./images/USE18103/90439400_129462935296571_1751748043577122393_n.jpg) <!-- .element height="40%" width="40%" -->
 
-[Video](https://www.instagram.com/p/B-wVi_nheXU/)<!-- .element class="fragment" -->
+[Video](https://www.instagram.com/p/B-wVi_nheXU/)
 
 ---
 
@@ -51,14 +51,16 @@
 - <!-- .element class="fragment" -->Workshopping - worked examples
 - <!-- .element class="fragment" -->Not much in terms of notes
 - <!-- .element class="fragment" -->Stuff on Aula to play with
-- <!-- .element class="fragment" -->Follow-up videos on Loom
+- <!-- .element class="fragment" -->Follow-up videos on <A HREF="https://www.loom.com/">Loom</A>
 
 ---
 
-# P5.js
+# Platform: P5.js
 
 - <!-- .element class="fragment" -->Images and animation (and interaction) through coding
-- <!-- .element class="fragment" --><!-- .element class="fragment" --> A dialect of <A HREF="https://processing.org/">Processing</A>
+- <!-- .element class="fragment" -->A dialect of <A HREF="https://processing.org/">Processing</A>
 - <!-- .element class="fragment" -->The Web (browser) as medium
 - <!-- .element class="fragment" -->JavaScript
 - <!-- .element class="fragment" -->Why are we learning it?
+- <!-- .element class="fragment" -->Code as building material
+- <!-- .element class="fragment" -->Goto: <A HREF="https://p5js.org/">p5js.org</A>
