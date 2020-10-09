@@ -22,6 +22,9 @@ $backgroundColor: #fff;
 $mainColor: #222;
 $headingColor: #222;
 
+//$heading1Size: 3.77em;
+
+
 $mainFontSize: 42px;
 $mainFont: 'Microgramma', Helvetica, sans-serif;
 $headingFont: 'Microgramma', Helvetica, sans-serif;
@@ -33,10 +36,15 @@ $linkColor: #2a76dd;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
 
-$heading1Size: 2.5em;
-$heading2Size: 1.6em;
-$heading3Size: 1.3em;
-$heading4Size: 1.0em;
+//$heading1Size: 2.5em;
+//$heading2Size: 1.6em;
+//$heading3Size: 1.3em;
+//$heading4Size: 1.0em;
+
+$heading1Size: 1.6em;
+$heading2Size: 1.3em;
+$heading3Size: 1.0em;
+$heading4Size: 0.8em;
 
 // Change text colors against dark slide backgrounds
 @include dark-bg-text-color(#fff);

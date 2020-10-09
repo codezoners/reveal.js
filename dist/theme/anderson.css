@@ -26,10 +26,10 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --heading-text-shadow: none;
   --heading-font-weight: 600;
   --heading1-text-shadow: none;
-  --heading1-size: 2.5em;
-  --heading2-size: 1.6em;
-  --heading3-size: 1.3em;
-  --heading4-size: 1em;
+  --heading1-size: 1.6em;
+  --heading2-size: 1.3em;
+  --heading3-size: 1em;
+  --heading4-size: 0.8em;
   --code-font: monospace;
   --link-color: #2a76dd;
   --link-color-hover: #6ca0e8;
@@ -81,16 +81,16 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 2.5em; }
-
-.reveal h2 {
   font-size: 1.6em; }
 
-.reveal h3 {
+.reveal h2 {
   font-size: 1.3em; }
 
-.reveal h4 {
+.reveal h3 {
   font-size: 1em; }
+
+.reveal h4 {
+  font-size: 0.8em; }
 
 .reveal h1 {
   text-shadow: none; }
