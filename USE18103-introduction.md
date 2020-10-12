@@ -1,3 +1,5 @@
+#### USE18103
+
 # Coding, Figures, Visuals
 ## Nick Rothwell
 
@@ -27,6 +29,8 @@
 - <!-- .element class="fragment" -->Software clock - on-screen
 
 ![software clock](./images/USE18103/83918413_577956876389756_5166374745235072338_n.jpg) <!-- .element class="fragment" height="40%" width="40%" -->
+
+- <!-- .element class="fragment" --><A HREF="https://files.rave.aula.education/23d20d20b13769adbefd65d85cd8149ause18103_coding__figures__visuals_2020_2021_dh.pdf">(The brief)</A>
 
 ---
 
@@ -64,3 +68,4 @@
 - <!-- .element class="fragment" -->Why are we learning it?
 - <!-- .element class="fragment" -->Code as building material
 - <!-- .element class="fragment" -->Goto: <A HREF="https://p5js.org/">p5js.org</A>
+- <!-- .element class="fragment" -->Important: p5.js <A HREF="https://p5js.org/reference/">library reference</A>!
